@@ -1,10 +1,10 @@
-# Google Cloud VPC Firewall Configuration Lab
+# Configuring VPC Firewalls
 
 This repository contains the complete implementation and documentation for configuring Virtual Private Cloud (VPC) networks and firewall rules in Google Cloud Platform.
 
 ## Video
 
-
+https://youtu.be/3xC4xfAwOy8
 
 ## Overview
 
