@@ -6,7 +6,7 @@ This repository contains the complete implementation and documentation for confi
 
 https://youtu.be/3xC4xfAwOy8
 
-## Overview
+## Overview 
 
 This lab demonstrates how to create and manage VPC networks, configure firewall rules, and control network traffic between instances. The project covers both automatic and custom VPC networks, investigating default firewall behavior, and implementing custom ingress/egress rules with priority management.
 
