@@ -10,7 +10,7 @@ https://youtu.be/3xC4xfAwOy8
 
 This lab demonstrates how to create and manage VPC networks, configure firewall rules, and control network traffic between instances. The project covers both automatic and custom VPC networks, investigating default firewall behavior, and implementing custom ingress/egress rules with priority management.
 
-## Lab Objectives
+## Lab Objectives 
 
 - Create an auto-mode network, a custom-mode network, and associated subnetworks
 - Investigate firewall rules in the default network and then delete the default network
