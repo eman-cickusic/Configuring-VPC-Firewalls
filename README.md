@@ -2,7 +2,7 @@
 
 This repository contains the complete implementation and documentation for configuring Virtual Private Cloud (VPC) networks and firewall rules in Google Cloud Platform.
 
-## Video  
+## Video   
 
 https://youtu.be/3xC4xfAwOy8
 
